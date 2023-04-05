@@ -3,7 +3,7 @@
 # Current Issues
 <ul>
 <li>Website is not responsive, columns collide on mobile devices. [27, 28]</li>
-<li>If Milestones and Palindromes become too large, the table overflows.</li>
+<li>If Milestones and Palindromes become too large, the table overflows, [32].</li>
 <li>Adding circles in double digits for qwqNum causes circles to become ovals.</li>
 </ul>
 
@@ -51,5 +51,6 @@
     <li>https://www.w3schools.com/css/css3_shadows.asp</li>
     <li>https://stackoverflow.com/questions/14964253/how-to-dynamically-add-a-new-column-to-an-html-table</li>
     <li>https://www.w3schools.com/jsref/met_table_insertrow.asp</li>
+    <li>https://stackoverflow.com/questions/9789723/css-text-overflow-in-a-table-cell</li>
 </ol>
 
