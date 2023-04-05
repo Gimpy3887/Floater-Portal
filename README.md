@@ -1,7 +1,7 @@
 # Floater-Portal
 
 # Structure
-The readme file is formatted as follows, under the heading Current Issues the possible solution for the issue are references displayed as [n]. 
+The readme file is formatted as follows, under the heading Current Issues the possible solution for the issue are references displayed as [n] where n is an integer. 
 
 # Current Issues
 <ul>
