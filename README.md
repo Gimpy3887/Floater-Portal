@@ -19,6 +19,7 @@ The readme file is formatted as follows, under the heading Current Issues the po
 <li>Adding new table entries using JS and writing to the HTML file, [30, 31].</li>
 <li>Coding up a splash page.</li>
 <li>Connecting to discord to fetch profile picture information to display on the leaderboard.</li>
+<li>Hauling over the entire table to react.js since it works with github pages.</li>
 </ul>
 
 # References
