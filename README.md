@@ -9,8 +9,7 @@
 
 # Features to think about Implementing
 <ul>
-<li>Sorting columns using JS.</li>
-  
+<li>Sorting columns using JS, [34, 35].</li>
 <li>Adding icons next to specific nicknames.</li>
 <li>Adding shadows behind columns names, [29].</li>
 <li>Adding new table entries using JS and writing to the HTML file, [30, 31].</li>
@@ -53,5 +52,7 @@
     <li>https://www.w3schools.com/jsref/met_table_insertrow.asp</li>
     <li>https://stackoverflow.com/questions/9789723/css-text-overflow-in-a-table-cell</li>
     <li>https://wisdmlabs.com/blog/responsive-tables-using-css-div-tag/</li>
+    <li>https://www.w3schools.com/howto/howto_js_sort_table.asp</li>
+    <li>https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript</li>
 </ol>
 
