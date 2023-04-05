@@ -13,7 +13,7 @@
   
 <li>Adding icons next to specific nicknames.</li>
 <li>Adding shadows behind columns names, [29].</li>
-<li>Adding new table entries using JS and writing to the HTML file, [30].</li>
+<li>Adding new table entries using JS and writing to the HTML file, [30, 31].</li>
 <li>Coding up a splash page.</li>
 <li>Connecting to discord to fetch profile picture information to display on the leaderboard.</li>
 </ul>
@@ -50,5 +50,6 @@
     <li>https://allthingssmitty.com/2016/10/03/responsive-table-layout/</li>
     <li>https://www.w3schools.com/css/css3_shadows.asp</li>
     <li>https://stackoverflow.com/questions/14964253/how-to-dynamically-add-a-new-column-to-an-html-table</li>
+    <li>https://www.w3schools.com/jsref/met_table_insertrow.asp</li>
 </ol>
 
