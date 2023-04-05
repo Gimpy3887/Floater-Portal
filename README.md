@@ -1,4 +1,5 @@
 # Floater-Portal
+A website to showcase a prevalent cult on the GEH discord server. The website consists of two pages: (1) leaderboard, and (2) splash page: the latter is soon to be added.
 
 # Structure
 The readme file is formatted as follows, under the heading Current Issues the possible solution for the issue are references displayed as [n] where n is an integer. 
