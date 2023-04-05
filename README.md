@@ -1,5 +1,8 @@
 # Floater-Portal
 
+# Structure
+The readme file is formatted as follows, under the heading Current Issues the possible solution for the issue is reference a i.e. [n]. 
+
 # Current Issues
 <ul>
 <li>Website is not responsive, columns collide on mobile devices. [27, 28, 33]</li>
