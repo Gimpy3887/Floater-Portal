@@ -1,5 +1,7 @@
+The page has been unpublished since no floater cared to update the table.
+
 # Floater-Portal
-A website to showcase a prevalent cult on the GEH discord server, <a href="https://gimpy3887.github.io/Floater-Portal/">Floater Portal</a>. The website consists of two pages: (1) leaderboard, and (2) splash page: the latter is soon to be added.
+A website to showcase a prevalent cult on the GEH discord server, Floater Portal. The website consists of two pages: (1) leaderboard, and (2) splash page: the latter is soon to be added.
 
 # Structure
 The readme file is formatted as follows, under the heading Current Issues the possible solution for the issue are references displayed as [n] where n is an integer. 
